@@ -1,0 +1,42 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    background-color: rgb(196, 228, 230);
+    
+    
+    
+}
+
+.form{
+    background-color: white;
+    margin: auto;
+    width: 90%;
+    max-width: 400px;
+    padding: 4em 3em;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.form_input{
+    width: 100%;
+    color:#706c6c;
+    font-size: 1rem;
+    padding: .6em .3em;
+    border:none;
+    font-family: 'Roboto', sans-serif;
+}
+
+.form_submit{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 1rem;
+    padding: .8em;
+    border: none;
+    border-radius: .5em;
+  
+}
+.container{
+    margin-top: .2cm;
+    display:grid;
+    gap:.5em;
+}
